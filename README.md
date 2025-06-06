@@ -32,7 +32,7 @@ python teste.py
 
 ### Entradas e Saídas:
 
-1. Caso você insira uma jogada válida, ocê deverá ver uma saída semelhante a essa: 
+1. Caso você insira uma jogada válida, você deverá ver uma saída semelhante a essa: 
 ```
 {
   'statusCode': 200,
